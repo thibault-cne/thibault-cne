@@ -1,9 +1,8 @@
-# Hi there 👋
+# 🤾🏼‍♂️ Thibault Cheneviere
 
 ---
 
 ## 🧰 Languages and Tools
-
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
@@ -20,7 +19,8 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<br />
+
+<br></br>
 
 #
 
