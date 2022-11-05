@@ -24,11 +24,13 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
           
 
-<br></br>
+<br>
 
 #
 
-![Visitor Count](https://profile-counter.glitch.me/thibault_cne/count.svg)
+<p align="center">
+ <img src="https://profile-counter.glitch.me/thibault_cne/count.svg" />
+</p>
 
 <!--
 **thibault-cne/thibault-cne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
