@@ -25,8 +25,10 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all
           
 
 <br></br>
-![Visitor Count](https://profile-counter.glitch.me/thibault_cne/count.svg)
+
 #
+
+![Visitor Count](https://profile-counter.glitch.me/thibault_cne/count.svg)
 
 <!--
 **thibault-cne/thibault-cne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
