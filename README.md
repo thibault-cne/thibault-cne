@@ -1,6 +1,6 @@
 # 🤾🏼‍♂️ Thibault Cheneviere
 
-I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all technologies and especially full-stack web apps.
+I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all technologies and especially full-stack web apps and C development which might be my favorite language for now.
 
 ---
 
