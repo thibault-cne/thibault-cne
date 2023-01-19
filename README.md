@@ -1,12 +1,13 @@
 # 🤾🏼‍♂️ Thibault Cheneviere
 
-I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all technologies and especially full-stack web apps and C development which might be my favorite language for now.
+I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all technologies especially cli development in C or Rust. I'm also interested in cybersecurity. I participate in some CTF such as GreHack or TRACS and I also practice on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
 
 ---
 
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
