@@ -1,6 +1,6 @@
 # 🤾🏼‍♂️ Thibault Cheneviere
 
-I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all technologies especially cli development in C or Rust. I'm also interested in cybersecurity. I participate in some CTF such as GreHack or TRACS and I also practice on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
+I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all technologies especially cli development in C or Rust. I'm also interested in cybersecurity. I participated in various Capture The Flag (CTF), such as GreHack or TRACS. I also practice on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
 
 ---
 
