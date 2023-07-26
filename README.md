@@ -25,7 +25,7 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in all
 
 ---
 
-![Thibault Cne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thibault_cne&show_icons=true&theme=algolia&border_radius=20)
+![Thibault Cne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thibault-cne&show_icons=true&theme=algolia&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thibault-cne&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=20)
 
