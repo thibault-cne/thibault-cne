@@ -14,7 +14,7 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,java,rust,go,python,bash,rocket,tailwind,github,linux,js,vue,svelte&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,go,python,git,docker,vim,bash,rocket,tailwind,github,linux,js,vue,svelte,azure&perline=6" />
   </a>
 </p>
 <br />
