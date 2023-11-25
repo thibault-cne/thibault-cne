@@ -5,7 +5,8 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 **Things I like:**
 
 - cybersecurity, I participated in various Capture The Flag (CTF), such as GreHack or TRACS and I also practice on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
-- software developement like CLI's or API's. I practive my algorithms on [leetcode](https://leetcode.com/user8887Ps/).
+- software developement like CLI's, API's or various programs.
+- I practice my algorithms and datastructures on [leetcode](https://leetcode.com/user8887Ps/).
 - handball 🤾🏼‍♂️
 
 ---
