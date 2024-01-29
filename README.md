@@ -22,6 +22,13 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 
 ---
 
+## 📝 My latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📊 Statistics
 
 <div class="stats" align="center">

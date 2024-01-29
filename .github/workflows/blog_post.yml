@@ -1,0 +1,21 @@
+---
+
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day
+    - cron: '* 0 * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # RSS feed URL
+          feed_list: "https://dev.to/feed/thibault-cne"
+          # Maximum number of posts
+          max_post_count: 3
