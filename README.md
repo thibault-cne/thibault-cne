@@ -25,6 +25,7 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 ## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I built a Formula1 API 🏎 - part 1](https://dev.to/thibault-cne/how-i-built-a-formula1-api-part-1-33am)
 <!-- BLOG-POST-LIST:END -->
 
 ---
