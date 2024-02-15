@@ -40,6 +40,6 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 </div>
 
 <p align="center">
-    <a href="https://github.com/thibault-cne" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/thibault-cne/thibault-cne?logo=GitHub&label=visits&color=#ff2800&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/thibault-cne" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/thibault-cne/thibault-cne?logo=GitHub&label=visits&color=ff2800&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/thibault-cne/thibault-cne" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/thibault-cne/thibault-cne?label=profile%20updated&style=flat-square"></a>
 </p>
