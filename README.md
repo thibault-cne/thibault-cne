@@ -14,7 +14,9 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 - cybersecurity and practicing on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
 - software developement
 - practicing my algorithms and datastructures on [leetcode](https://leetcode.com/thibault-cne/).
-- handball 🤾🏼‍♂️
+- handball, and sports in general 🤾🏼‍♂️
+- playing video games 🎮
+- motorsport, especially F1 🏎️
 
 ---
 
