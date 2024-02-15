@@ -5,6 +5,8 @@
     <a href="https://github.com/thibault-cne" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/thibault-cne/thibault-cne?logo=GitHub&label=visits&color=ff2800&logoColor=white&style=flat-square"/></a>
 </div>
 
+<br />
+
 I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in quite every fields of science and I love to learn new things. I'm currently studying in a master degree in cybersecurity at university of Sherbrooke.
 
 **Things I like:**
