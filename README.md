@@ -1,5 +1,10 @@
 # 🤾🏼‍♂️ Thibault Cheneviere
 
+<div>
+    <a href="https://github.com/thibault-cne/thibault-cne" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/thibault-cne/thibault-cne?label=profile%20updated&color=ff2800&style=flat-square"></a>
+    <a href="https://github.com/thibault-cne" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/thibault-cne/thibault-cne?logo=GitHub&label=visits&color=ff2800&logoColor=white&style=flat-square"/></a>
+</div>
+
 I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in quite every fields of science and I love to learn new things. I'm currently studying in a master degree in cybersecurity at university of Sherbrooke.
 
 **Things I like:**
@@ -38,8 +43,3 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thibault-cne&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=20)
 
 </div>
-
-<p align="center">
-    <a href="https://github.com/thibault-cne" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/thibault-cne/thibault-cne?logo=GitHub&label=visits&color=ff2800&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/thibault-cne/thibault-cne" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/thibault-cne/thibault-cne?label=profile%20updated&style=flat-square"></a>
-</p>
