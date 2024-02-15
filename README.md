@@ -1,12 +1,12 @@
-# 🤾🏼‍♂️ Thibault Cheneviere
+# 🤾🏼‍♂️ Thibault Cheneviere ![](https://visitcount.itsvg.in/api?id=thibault-cne&icon=2&color=1)
 
 I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in quite every fields of science and I love to learn new things. I'm currently studying in a master degree in cybersecurity at university of Sherbrooke.
 
 **Things I like:**
 
-- cybersecurity, I participated in various Capture The Flag (CTF), such as GreHack or TRACS and I also practice on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
-- software developement like CLI's, API's or various programs.
-- I practice my algorithms and datastructures on [leetcode](https://leetcode.com/user8887Ps/).
+- cybersecurity and practicing on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
+- software developement
+- practicing my algorithms and datastructures on [leetcode](https://leetcode.com/thibault-cne/).
 - handball 🤾🏼‍♂️
 
 ---
@@ -38,9 +38,3 @@ I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in qui
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thibault-cne&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=20)
 
 </div>
-
----
-
-<p align="center">
- <img src="https://profile-counter.glitch.me/thibault_cne/count.svg" />
-</p>
