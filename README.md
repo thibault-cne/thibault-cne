@@ -1,4 +1,4 @@
-# 🤾🏼‍♂️ Thibault Cheneviere
+# 🤾🏼‍♂️ Thibault C.
 
 <div>
     <a href="https://github.com/thibault-cne/thibault-cne" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/thibault-cne/thibault-cne?label=profile%20updated&color=ff2800&style=flat-square"></a>
@@ -7,7 +7,7 @@
 
 <br />
 
-I'm Thibault Cheneviere, a student in IT at TELECOM Nancy. I'm interested in quite every fields of science and I love to learn new things. I'm currently studying in a master degree in cybersecurity at university of Sherbrooke.
+I'm Thibault, a student in IT at TELECOM Nancy. I'm interested in quite every fields of science and I love to learn new things. I'm currently studying in a master degree in cybersecurity at university of Sherbrooke.
 
 **Things I like:**
 
