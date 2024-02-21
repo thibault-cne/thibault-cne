@@ -14,9 +14,9 @@ I'm Thibault, a student in IT at TELECOM Nancy. I'm interested in quite every fi
 - cybersecurity and practicing on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
 - software developement
 - practicing my algorithms and datastructures on [leetcode](https://leetcode.com/thibault-cne/).
-- handball, and sports in general 🤾🏼‍♂️
-- playing video games 🎮
-- motorsport, especially F1 🏎️
+- 🤾🏼‍♂️ handball, and sports in general
+- 🎮 playing video games
+- 🏎️ motorsport, especially F1
 
 ---
 
