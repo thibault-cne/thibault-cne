@@ -33,6 +33,7 @@ I'm Thibault, a student in IT at TELECOM Nancy. I'm interested in quite every fi
 ## 📝 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide through rust declarative macros](https://dev.to/thibault-cne/a-guide-through-rust-declarative-macros-1k8m)
 - [How I built a Formula1 API 🏎 - part 1](https://dev.to/thibault-cne/how-i-built-a-formula1-api-part-1-33am)
 <!-- BLOG-POST-LIST:END -->
 
