@@ -29,7 +29,7 @@ I'm Thibault, a student in IT at TELECOM Nancy. I'm interested in quite every fi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,go,python,git,docker,vim,bash,rocket,tailwind,github,linux,js,vue,svelte,azure&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,go,python,git,docker,azure,bash,rocket,tailwind,github,linux,js,vue,svelte,react&perline=6" />
   </a>
 </p>
 <br />
