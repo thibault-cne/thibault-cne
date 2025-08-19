@@ -1,9 +1,5 @@
 # Thibault C.
 
-<div>
-    <a href="https://github.com/thibault-cne" target="_blank"><img alt="visitCount" src="https://badges.pufler.dev/visits/thibault-cne/thibault-cne?logo=GitHub&label=visits&color=ff2800&logoColor=white&style=flat-square"/></a>
-</div>
-
 <br />
 
 <p align="center">
@@ -12,14 +8,14 @@
 
 <br />
 
-I'm Thibault, a student in IT at TELECOM Nancy. I'm interested in quite every fields of science and I love to learn new things. I'm currently studying in a master degree in cybersecurity at university of Sherbrooke.
+I'm Thibault, a software engineer. I'm interested in quite every fields of science and I love to learn new things.
 
 **Things I like:**
 
-- cybersecurity and practicing on [root-me](https://www.root-me.org/Thib-681376?lang=fr&var_mode=calcul).
 - software developement
 - practicing my algorithms and datastructures on [leetcode](https://leetcode.com/thibault-cne/).
-- 🤾🏼‍♂️ handball, and sports in general
+- cybersecurity
+- 🤾🏼‍♂️  handball, and sports in general
 - 🎮 playing video games
 - 🏎️ motorsport, especially F1
 
